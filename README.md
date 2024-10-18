@@ -6,12 +6,13 @@
 ###### I am passionate about technologies, I like to see the beauty of codes and understand how it works.
 
 
-  - :mortar_board: Studying Information System at UFC.
+  - :mortar_board: Graduated in Information System at the Federal University of Ceara.
   - :robot: I'm a computer technician
   - :blue_book: I was a programming monitor in college
   - :heart_eyes: I am passionate about clean code
+  - 🫀 I love my work
 
-Skills: <strong>Javascript, HTML, CSS, React, ReactNative, Typescript, SQL, Node and Learning Next.js </strong>
+Skills: <strong> Next.js, Node, Typescript, Tailwindcss, ReactNative and Learning N8N </strong>
 
 
 :briefcase: Tools: Linux, Visual Studio Code, Isomnia, Figma(Basics), Trello , Git and GitHub
