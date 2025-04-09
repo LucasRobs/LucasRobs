@@ -12,7 +12,7 @@
   - :heart_eyes: I am passionate about clean code
   - 🫀 I love my work
 
-Skills: <strong> Next.js, Node, Typescript, Tailwindcss, ReactNative and Learning N8N </strong>
+Skills: <strong> N8N, Next.js, Node, Typescript, Tailwindcss, ReactNative and Learning MCP</strong>
 
 
 :briefcase: Tools: Linux, Visual Studio Code, Isomnia, Figma(Basics), Trello , Git and GitHub
